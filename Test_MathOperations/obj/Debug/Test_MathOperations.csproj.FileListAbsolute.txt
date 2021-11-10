@@ -1,0 +1,16 @@
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Test_MathOperations.dll
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Test_MathOperations.pdb
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\MathOperations.dll
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hatip\source\Test_MathOperations\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hatip\source\Test_MathOperations\obj\Debug\Test_MathOperations.csprojAssemblyReference.cache
+C:\Users\hatip\source\Test_MathOperations\obj\Debug\Test_MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\hatip\source\Test_MathOperations\obj\Debug\Test_MathOperations.csproj.CopyComplete
+C:\Users\hatip\source\Test_MathOperations\obj\Debug\Test_MathOperations.dll
+C:\Users\hatip\source\Test_MathOperations\obj\Debug\Test_MathOperations.pdb
